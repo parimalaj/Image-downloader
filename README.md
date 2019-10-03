@@ -1,2 +1,3 @@
 # Image-downloader
-Automatically Download the images from google
+Automatically download the images from google using python
+
